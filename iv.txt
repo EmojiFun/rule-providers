@@ -1,0 +1,8 @@
+proxies:
+  - name: "🇬🇧 Internxt"
+    type: http
+    server: "dihgihw.internxt.com"
+    port: 8083
+    username: "internxt"
+    password: "pass"
+    tls: true
