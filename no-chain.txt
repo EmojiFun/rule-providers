@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,lehu.in
   - PROCESS-NAME,deeplx.exe
