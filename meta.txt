@@ -1,0 +1,20 @@
+payload:
+  - PROCESS-NAME,com.facebook.katana
+  - PROCESS-NAME,com.facebook.lite
+  - PROCESS-NAME,com.facebook.orca
+  - PROCESS-NAME,com.facebook.pages.app
+  - PROCESS-NAME,com.facebook.talk
+  - PROCESS-NAME,com.facebook.adsmanager
+  - PROCESS-NAME,com.facebook.work
+  - PROCESS-NAME,com.whatsapp
+  - PROCESS-NAME,com.whatsapp.w4b
+  - PROCESS-NAME,com.facebook.workchat
+  - PROCESS-NAME,com.facebook.stella
+  - PROCESS-NAME,com.facebook.viewpoints
+  - PROCESS-NAME,com.facebook.arstudio.player
+  - PROCESS-NAME,com.instagram.android
+  - PROCESS-NAME,com.instander.android
+  - PROCESS-NAME,com.instapro.android
+  - PROCESS-NAME,com.instagram.barcelona
+  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,meta.ai
