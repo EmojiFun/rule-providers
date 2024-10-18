@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,lehu.in
   - DOMAIN-SUFFIX,hostloc.com
   - PROCESS-NAME,deeplx.exe
+  - PROCESS-NAME,deeplx-self.exe
