@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,hostloc.com
   - PROCESS-NAME,deeplx.exe
   - PROCESS-NAME,deeplx-self.exe
+  - PROCESS-NAME,ckg_server_windows_x64.exe
