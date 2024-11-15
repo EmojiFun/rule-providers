@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,lehu.in
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,justwatch.com
   - PROCESS-NAME,deeplx.exe
   - PROCESS-NAME,deeplx-self.exe
   - PROCESS-NAME,ckg_server_windows_x64.exe
