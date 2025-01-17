@@ -3,7 +3,8 @@ payload:
   - DOMAIN-SUFFIX,lehu.in
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,justwatch.com
-  - DOMAIN-SUFFIX,bigmodel.cn
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,naixi.net
   - PROCESS-NAME,deeplx.exe
   - PROCESS-NAME,deeplx-self.exe
   - PROCESS-NAME,ckg_server_windows_x64.exe
