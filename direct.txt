@@ -1,0 +1,3 @@
+payload:
+  - PROCESS-NAME,网盘高速下载器.exe
+  - DOMAIN-SUFFIX,theoremhub.asia
