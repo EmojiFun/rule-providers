@@ -16,6 +16,8 @@ payload:
   - PROCESS-NAME,com.instander.android
   - PROCESS-NAME,com.instapro.android
   - PROCESS-NAME,com.instagram.barcelona
+  - PROCESS-NAME,com.whatsapp
+  - PROCESS-NAME,com.whatsapp.w4b
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,instagram.com
@@ -29,17 +31,69 @@ payload:
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.com
   - DOMAIN-SUFFIX,fbcdn.net
-  - IP-CIDR,31.13.24.0/21,no-resolve
-  - IP-CIDR,31.13.64.0/18,no-resolve
-  - IP-CIDR,45.64.40.0/22,no-resolve
-  - IP-CIDR,66.220.144.0/20,no-resolve
-  - IP-CIDR,69.63.176.0/20,no-resolve
-  - IP-CIDR,69.171.224.0/19,no-resolve
-  - IP-CIDR,74.119.76.0/22,no-resolve
-  - IP-CIDR,103.4.96.0/22,no-resolve
-  - IP-CIDR,129.134.0.0/17,no-resolve
-  - IP-CIDR,157.240.0.0/17,no-resolve
-  - IP-CIDR,173.252.64.0/18,no-resolve
-  - IP-CIDR,179.60.192.0/22,no-resolve
-  - IP-CIDR,185.60.216.0/22,no-resolve
-  - IP-CIDR,204.15.20.0/22,no-resolve
+  - DOMAIN-SUFFIX,whatsappbrand.com
+  - DOMAIN-SUFFIX,whatsapp.cc
+  - DOMAIN-SUFFIX,whatsapp.info
+  - DOMAIN-SUFFIX,whatsapp.org
+  - DOMAIN-SUFFIX,whatsapp.tv
+  - DOMAIN-SUFFIX,whatsapp-plus.info
+  - DOMAIN-SUFFIX,whatsapp-plus.me
+  - DOMAIN-SUFFIX,whatsapp-plus.net
+  - DOMAIN-SUFFIX,api.whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,chat.whatsapp.com
+  - DOMAIN-SUFFIX,web.whatsapp.com
+  - DOMAIN-SUFFIX,faq.whatsapp.com
+  - DOMAIN-SUFFIX,blog.whatsapp.com
+  - DOMAIN-SUFFIX,dyn.web.whatsapp.com
+  - DOMAIN-SUFFIX,media.whatsapp.com
+  - DOMAIN-SUFFIX,alpha.whatsapp.com
+  - DOMAIN-SUFFIX,beta.whatsapp.com
+  - DOMAIN-SUFFIX,w9.web.whatsapp.com
+  - DOMAIN-SUFFIX,wwwl.whatsapp.com
+  - DOMAIN-SUFFIX,blogl.whatsapp.com
+  - DOMAIN-SUFFIX,web-t.whatsapp.com
+  - DOMAIN-SUFFIX,ftl.whatsapp.com
+  - DOMAIN-SUFFIX,test-web.whatsapp.com
+  - DOMAIN-SUFFIX,support.whatsapp.com
+  - DOMAIN-SUFFIX,v.whatsapp.com
+  - DOMAIN-SUFFIX,sjc.whatsapp.com
+  - DOMAIN-SUFFIX,w2.web.whatsapp.com
+  - DOMAIN-SUFFIX,b.whatsapp.com
+  - DOMAIN-SUFFIX,dev-web-beta.whatsapp.com
+  - DOMAIN-SUFFIX,translate.whatsapp.com
+  - DOMAIN-SUFFIX,w3.web.whatsapp.com
+  - DOMAIN-SUFFIX,lerequest-lookaside.whatsapp.com
+  - DOMAIN-SUFFIX,graph.whatsapp.com
+  - DOMAIN-SUFFIX,w7.web.whatsapp.com
+  - DOMAIN-SUFFIX,lerequest.whatsapp.com
+  - DOMAIN-SUFFIX,gamma.whatsapp.com
+  - DOMAIN-SUFFIX,w1.web-t.whatsapp.com
+  - DOMAIN-SUFFIX,betablog.whatsapp.com
+  - DOMAIN-SUFFIX,account.whatsapp.com
+  - DOMAIN-SUFFIX,betal.whatsapp.com
+  - DOMAIN-SUFFIX,m.whatsapp.com
+  - DOMAIN-SUFFIX,w4.web-t.whatsapp.com
+  - DOMAIN-SUFFIX,w1.web.whatsapp.com
+  - DOMAIN-SUFFIX,w4.web.whatsapp.com
+  - DOMAIN-SUFFIX,w6.web.whatsapp.com
+  - DOMAIN-SUFFIX,payments-localisation.whatsapp.com
+  - DOMAIN-SUFFIX,w5.web.whatsapp.com
+  - DOMAIN-SUFFIX,autodiscover.whatsapp.com
+  - DOMAIN-SUFFIX,up.web.whatsapp.com
+  - DOMAIN-SUFFIX,w0.whatsapp.com
+  - DOMAIN-SUFFIX,dev-web.whatsapp.com
+  - DOMAIN-SUFFIX,ratings.whatsapp.com
+  - DOMAIN-SUFFIX,w3.web-t.whatsapp.com
+  - DOMAIN-SUFFIX,www.xl.whatsapp.com
+  - DOMAIN-SUFFIX,www.whatsapp.com
+  - DOMAIN-SUFFIX,w2.web-t.whatsapp.com
+  - DOMAIN-SUFFIX,mmg.whatsapp.com
+  - DOMAIN-SUFFIX,w8.web.whatsapp.com
+  - DOMAIN-SUFFIX,e7.whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - IP-ASN,63293,no-resolve
+  - IP-ASN,54115,no-resolve
+  - IP-ASN,34825,no-resolve
+  - IP-ASN,32934,no-resolve
+  - IP-ASN,149642,no-resolve
