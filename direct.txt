@@ -2,3 +2,4 @@ payload:
   - PROCESS-NAME,网盘高速下载器.exe
   - DOMAIN-SUFFIX,theoremhub.asia
   - DOMAIN-SUFFIX,clivia.fun
+  - DOMAIN-SUFFIX,cdn-dalle.oss-us-west-1.aliyuncs.com
