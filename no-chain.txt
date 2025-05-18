@@ -10,3 +10,6 @@ payload:
   - PROCESS-NAME,ckg_server_windows_x64.exe
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,xdaforums.com
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.nz
+  - PROCESS-NAME,mega.privacy.andriod.app
