@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,lyrebird.exe
+  - PROCESS-NAME,conjure-client.exe
+  - PROCESS-NAME,obfs4proxy.exe
+  - PROCESS-NAME,snowflake-client.exe
+  - PROCESS-NAME,webtunnel-client.exe
+  - PROCESS-NAME,tor.exe
