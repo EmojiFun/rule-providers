@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,nbvpn.top,后置
   - DOMAIN-SUFFIX,pepsl.top,后置
   - DOMAIN-SUFFIX,youxixia.top,后置
+  - DOMAIN-SUFFIX,dimoyun.top,后置
