@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,youxixia.top,后置
   - DOMAIN-SUFFIX,dimoyun.top,后置
   - DOMAIN-SUFFIX,pinhaoxian.top,后置
+  - DOMAIN-SUFFIX,baigou111.top,后置
