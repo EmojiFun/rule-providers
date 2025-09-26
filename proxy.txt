@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,dimoyun.top,后置
   - DOMAIN-SUFFIX,pinhaoxian.top,后置
   - DOMAIN-SUFFIX,baigou111.top,后置
+  - DOMAIN-SUFFIX,foldjc.top,后置
