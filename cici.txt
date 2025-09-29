@@ -1,0 +1,6 @@
+payload:
+  - PROCESS-NAME,com.larus.wolf
+  - PROCESS-NAME,Cici.exe
+  - DOMAIN-SUFFIX,cici.com
+  - DOMAIN-SUFFIX,ciciai.com
+  - DOMAIN-SUFFIX,ciciaicdn.com
