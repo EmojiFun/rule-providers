@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,pinhaoxian.top,后置
   - DOMAIN-SUFFIX,baigou111.top,后置
   - DOMAIN-SUFFIX,foldjc.top,后置
+  - DOMAIN-SUFFIX,xilucloud.top,后置
