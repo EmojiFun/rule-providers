@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,xilucloud.top,后置
   - DOMAIN-SUFFIX,daxgwlwekg.top,后置
   - DOMAIN-SUFFIX,xn--9kq49d3xy.top,后置
+  - DOMAIN-SUFFIX,fulijichang.top,后置
