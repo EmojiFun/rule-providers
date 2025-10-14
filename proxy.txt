@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,fulijichang.top,后置
   - DOMAIN-SUFFIX,acyund.top,后置
   - DOMAIN-SUFFIX,acyunzz.top,后置
+  - DOMAIN-SUFFIX,xn--pss281n.top,后置
