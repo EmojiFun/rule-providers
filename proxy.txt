@@ -14,3 +14,5 @@ payload:
   - DOMAIN-SUFFIX,daxgwlwekg.top,后置
   - DOMAIN-SUFFIX,xn--9kq49d3xy.top,后置
   - DOMAIN-SUFFIX,fulijichang.top,后置
+  - DOMAIN-SUFFIX,acyund.top,后置
+  - DOMAIN-SUFFIX,acyunzz.top,后置
