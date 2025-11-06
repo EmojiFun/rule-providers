@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,acyunzz.top,后置
   - DOMAIN-SUFFIX,xn--pss281n.top,后置
   - DOMAIN-SUFFIX,xn--766a.top,后置
+  - DOMAIN-SUFFIX,nekocloud.top,后置
