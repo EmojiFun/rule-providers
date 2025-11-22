@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,xn--pss281n.top
   - DOMAIN-SUFFIX,xn--766a.top
   - DOMAIN-SUFFIX,nekocloud.top
+  - DOMAIN-SUFFIX,top
