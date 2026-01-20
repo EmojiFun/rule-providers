@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,clivia.fun
   - DOMAIN-SUFFIX,cdn-dalle.oss-us-west-1.aliyuncs.com
   - DOMAIN-SUFFIX,sharedchat.fun
+  - DOMAIN-SUFFIX,zb-play.gpycvac.com
