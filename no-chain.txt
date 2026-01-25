@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - PROCESS-NAME,mega.privacy.andriod.app
   - PROCESS-NAME,Termius.exe
+  - DOMAIN-SUFFIX,violet.sakuraikaede.com
