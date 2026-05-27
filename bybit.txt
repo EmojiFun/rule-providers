@@ -1,0 +1,3 @@
+payload:
+  - PROCESS-NAME,com.bybit.app
+  - DOMAIN-SUFFIX,bybit.com
