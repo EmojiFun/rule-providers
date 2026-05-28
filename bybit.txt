@@ -9,3 +9,10 @@ payload:
   - DOMAIN-SUFFIX,byapps.net
   - DOMAIN-SUFFIX,byabcde.com
   - DOMAIN-SUFFIX,bybit-aws.com
+  - DOMAIN-SUFFIX,bycsi.com
+  - DOMAIN-SUFFIX,bytick.com
+  - DOMAIN-SUFFIX,byapis.com
+  - DOMAIN-SUFFIX,bycbe.com
+  - DOMAIN-SUFFIX,bymj.io
+  - DOMAIN-SUFFIX,bybit-global.com
+  - DOMAIN-SUFFIX,bybit.cloud
