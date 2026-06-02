@@ -7,3 +7,10 @@ payload:
   - DOMAIN-SUFFIX,bitget.fit
   - DOMAIN-SUFFIX,bitget.site
   - DOMAIN-SUFFIX,bitget.media
+  - DOMAIN-SUFFIX,bitget.ng
+  - DOMAIN-SUFFIX,bgbstatic.com
+  - DOMAIN-SUFFIX,bgstatic.com
+  - DOMAIN-SUFFIX,bitgetapp.com
+  - DOMAIN-SUFFIX,bitgettg.com
+  - DOMAIN-SUFFIX,gurenla.com
+  - DOMAIN-SUFFIX,abcdstable.com
