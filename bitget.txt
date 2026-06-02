@@ -1,0 +1,9 @@
+payload:
+  - PROCESS-NAME,com.bitget.exchange
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitget.cloud
+  - DOMAIN-SUFFIX,bitget.online
+  - DOMAIN-SUFFIX,bitget.fig
+  - DOMAIN-SUFFIX,bitget.fit
+  - DOMAIN-SUFFIX,bitget.site
+  - DOMAIN-SUFFIX,bitget.media
