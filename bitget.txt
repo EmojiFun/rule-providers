@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,com.bitget.exchange
+  - PROCESS-NAME,com.bitkeep.wallet
   - DOMAIN-SUFFIX,bitget.com
   - DOMAIN-SUFFIX,bitget.cloud
   - DOMAIN-SUFFIX,bitget.online
