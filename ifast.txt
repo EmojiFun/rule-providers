@@ -1,0 +1,3 @@
+payload:
+  - PROCESS-NAME,com.ifast.gb
+  - DOMAIN-SUFFIX,ifastgb.com
