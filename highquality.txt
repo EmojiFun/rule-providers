@@ -6,3 +6,7 @@ payload:
   - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,imdb.to
+  - DOMAIN-SUFFIX,media-imdb.com
+  - DOMAIN-SUFFIX,imdbws.com
